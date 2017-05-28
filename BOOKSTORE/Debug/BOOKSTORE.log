@@ -1,0 +1,16 @@
+﻿  ShoppingCart.cpp
+c:\users\ag\desktop\bookstore\bookstore\shoppingcart.cpp(102): warning C4018: '<': signed/unsigned mismatch
+c:\users\ag\desktop\bookstore\bookstore\shoppingcart.cpp(123): warning C4018: '<': signed/unsigned mismatch
+c:\users\ag\desktop\bookstore\bookstore\shoppingcart.cpp(196): warning C4018: '<': signed/unsigned mismatch
+  Menu.cpp
+c:\users\ag\desktop\bookstore\bookstore\menu.cpp(558): warning C4018: '<': signed/unsigned mismatch
+c:\users\ag\desktop\bookstore\bookstore\menu.cpp(584): warning C4018: '<': signed/unsigned mismatch
+c:\users\ag\desktop\bookstore\bookstore\menu.cpp(606): warning C4018: '<': signed/unsigned mismatch
+c:\users\ag\desktop\bookstore\bookstore\menu.cpp(634): warning C4018: '<': signed/unsigned mismatch
+c:\users\ag\desktop\bookstore\bookstore\menu.cpp(1164): warning C4018: '<': signed/unsigned mismatch
+c:\users\ag\desktop\bookstore\bookstore\menu.cpp(1409): warning C4018: '<': signed/unsigned mismatch
+  Customer.cpp
+  App_Bookstore.cpp
+  Generating Code...
+  BOOKSTORE.vcxproj -> C:\Users\AG\Desktop\BOOKSTORE\Debug\BOOKSTORE.exe
+  BOOKSTORE.vcxproj -> C:\Users\AG\Desktop\BOOKSTORE\Debug\BOOKSTORE.pdb (Partial PDB)

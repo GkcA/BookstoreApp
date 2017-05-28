@@ -1,0 +1,30 @@
+854362
+Thriller
+55.90
+Micheal Jackson
+Pop
+50
+745214
+Revolver
+45.60
+The Beatles
+Rock-Pop
+36
+412348
+The Dark Side Of The Moon
+63.90
+Pink Floyd	
+Progressive rock
+70
+728476
+You Want It Darker
+48.99
+Leonard Cohen
+Folk
+85
+521487
+Tchaikovsky: Violin Concerto
+24.90
+Joshua Bell
+Classic
+15
